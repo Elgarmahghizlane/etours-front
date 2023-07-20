@@ -1,5 +1,5 @@
 export default {
-  base:'/Portfolio/',
+  base:'/etours-front/',
   server: {
     port: 8080 // change this to your desired port number
   },
