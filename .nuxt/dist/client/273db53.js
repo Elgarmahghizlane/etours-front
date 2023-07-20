@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[58],{493:function(l,t,o){"use strict";o.r(t);var e={layout:"Hotel"},n=o(6),component=Object(n.a)(e,(function(){var l=this._self._c;return l("div",{staticClass:"w-full md:overflow-auto h-[calc(100vh-90px)] md:mr-4 lg:ml-2 px-4 md:px-0"},[l("bedrooms-statusTable")],1)}),[],!1,null,null,null);t.default=component.exports}}]);

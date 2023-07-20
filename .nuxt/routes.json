@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Accounting-accounting",
+    "path": "/Accounting/accounting",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Accounting\\\\accounting.vue",
+    "chunkName": "pages/Accounting/accounting",
+    "_name": "_5a3e8ac9"
+  },
+  {
+    "name": "bedrooms-roomStatus",
+    "path": "/bedrooms/roomStatus",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\bedrooms\\\\roomStatus.vue",
+    "chunkName": "pages/bedrooms/roomStatus",
+    "_name": "_54cfdb03"
+  },
+  {
+    "name": "Experience-Availability",
+    "path": "/Experience/Availability",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Experience\\\\Availability.vue",
+    "chunkName": "pages/Experience/Availability",
+    "_name": "_830bb978"
+  },
+  {
+    "name": "Experience-Booking",
+    "path": "/Experience/Booking",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Experience\\\\Booking.vue",
+    "chunkName": "pages/Experience/Booking",
+    "_name": "_04a56700"
+  },
+  {
+    "name": "Experience-CapacityType",
+    "path": "/Experience/CapacityType",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Experience\\\\CapacityType.vue",
+    "chunkName": "pages/Experience/CapacityType",
+    "_name": "_4736b47d"
+  },
+  {
+    "name": "Experience-Experience",
+    "path": "/Experience/Experience",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Experience\\\\Experience.vue",
+    "chunkName": "pages/Experience/Experience",
+    "_name": "_383dc813"
+  },
+  {
+    "name": "Experience-Pass",
+    "path": "/Experience/Pass",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Experience\\\\Pass.vue",
+    "chunkName": "pages/Experience/Pass",
+    "_name": "_0342f00c"
+  },
+  {
+    "name": "Experience-Plan",
+    "path": "/Experience/Plan",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Experience\\\\Plan.vue",
+    "chunkName": "pages/Experience/Plan",
+    "_name": "_25456312"
+  },
+  {
+    "name": "Experience-Pricingcategory",
+    "path": "/Experience/Pricingcategory",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Experience\\\\Pricingcategory.vue",
+    "chunkName": "pages/Experience/Pricingcategory",
+    "_name": "_b3892e2a"
+  },
+  {
+    "name": "Experience-TravellersBook",
+    "path": "/Experience/TravellersBook",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Experience\\\\TravellersBook.vue",
+    "chunkName": "pages/Experience/TravellersBook",
+    "_name": "_df4d1574"
+  },
+  {
+    "name": "Properties-properties",
+    "path": "/Properties/properties",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Properties\\\\properties.vue",
+    "chunkName": "pages/Properties/properties",
+    "_name": "_1c9da505"
+  },
+  {
+    "name": "Reports-Advance",
+    "path": "/Reports/Advance",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Reports\\\\Advance.vue",
+    "chunkName": "pages/Reports/Advance",
+    "_name": "_1ab84862"
+  },
+  {
+    "name": "Reports-Charges",
+    "path": "/Reports/Charges",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Reports\\\\Charges.vue",
+    "chunkName": "pages/Reports/Charges",
+    "_name": "_63e1ad9f"
+  },
+  {
+    "name": "Reports-DailyAcc",
+    "path": "/Reports/DailyAcc",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Reports\\\\DailyAcc.vue",
+    "chunkName": "pages/Reports/DailyAcc",
+    "_name": "_0931ae10"
+  },
+  {
+    "name": "Reports-Employe",
+    "path": "/Reports/Employe",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Reports\\\\Employe.vue",
+    "chunkName": "pages/Reports/Employe",
+    "_name": "_5c6339f7"
+  },
+  {
+    "name": "Reports-Market",
+    "path": "/Reports/Market",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Reports\\\\Market.vue",
+    "chunkName": "pages/Reports/Market",
+    "_name": "_2e2c3ce8"
+  },
+  {
+    "name": "Reports-Payments",
+    "path": "/Reports/Payments",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Reports\\\\Payments.vue",
+    "chunkName": "pages/Reports/Payments",
+    "_name": "_7d5b2dfd"
+  },
+  {
+    "name": "Reports-Reservation",
+    "path": "/Reports/Reservation",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Reports\\\\Reservation.vue",
+    "chunkName": "pages/Reports/Reservation",
+    "_name": "_0cd66aa8"
+  },
+  {
+    "name": "Reports-Room",
+    "path": "/Reports/Room",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Reports\\\\Room.vue",
+    "chunkName": "pages/Reports/Room",
+    "_name": "_64dc34ab"
+  },
+  {
+    "name": "Reports-Sales",
+    "path": "/Reports/Sales",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Reports\\\\Sales.vue",
+    "chunkName": "pages/Reports/Sales",
+    "_name": "_73f085ec"
+  },
+  {
+    "name": "Reports-Summary",
+    "path": "/Reports/Summary",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Reports\\\\Summary.vue",
+    "chunkName": "pages/Reports/Summary",
+    "_name": "_4255d4f4"
+  },
+  {
+    "name": "Reports-Taxes",
+    "path": "/Reports/Taxes",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Reports\\\\Taxes.vue",
+    "chunkName": "pages/Reports/Taxes",
+    "_name": "_fa00880e"
+  },
+  {
+    "name": "Reservation-reservations",
+    "path": "/Reservation/reservations",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\Reservation\\\\reservations.vue",
+    "chunkName": "pages/Reservation/reservations",
+    "_name": "_4baa1c24"
+  },
+  {
+    "name": "bedrooms-Inventory-Channel",
+    "path": "/bedrooms/Inventory/Channel",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\bedrooms\\\\Inventory\\\\Channel.vue",
+    "chunkName": "pages/bedrooms/Inventory/Channel",
+    "_name": "_34a046fd"
+  },
+  {
+    "name": "bedrooms-Inventory-HoteLink",
+    "path": "/bedrooms/Inventory/HoteLink",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\bedrooms\\\\Inventory\\\\HoteLink.vue",
+    "chunkName": "pages/bedrooms/Inventory/HoteLink",
+    "_name": "_dcfa7a70"
+  },
+  {
+    "name": "bedrooms-Inventory-OnlineBookingEngine",
+    "path": "/bedrooms/Inventory/OnlineBookingEngine",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\bedrooms\\\\Inventory\\\\OnlineBookingEngine.vue",
+    "chunkName": "pages/bedrooms/Inventory/OnlineBookingEngine",
+    "_name": "_1581263c"
+  },
+  {
+    "name": "bedrooms-Inventory-Overview",
+    "path": "/bedrooms/Inventory/Overview",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\bedrooms\\\\Inventory\\\\Overview.vue",
+    "chunkName": "pages/bedrooms/Inventory/Overview",
+    "_name": "_0d0a06ef"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Toto\\\\Desktop\\\\etours-front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1469b3a3"
+  }
+]

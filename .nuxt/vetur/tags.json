@@ -1,0 +1,95 @@
+{
+  "ExperienceSideMenu": {
+    "description": "Auto imported from components/ExperienceSideMenu.vue"
+  },
+  "HeaderTop": {
+    "description": "Auto imported from components/Header-top.vue"
+  },
+  "Sidemenu": {
+    "description": "Auto imported from components/Sidemenu.vue"
+  },
+  "AccountingPagination": {
+    "description": "Auto imported from components/Accounting/Pagination.vue"
+  },
+  "AccountingSearch": {
+    "description": "Auto imported from components/Accounting/Search.vue"
+  },
+  "BedroomsBookengineTable": {
+    "description": "Auto imported from components/Bedrooms/bookengineTable.vue"
+  },
+  "BedroomsChannelTable": {
+    "description": "Auto imported from components/Bedrooms/channelTable.vue"
+  },
+  "BedroomsNavigator": {
+    "description": "Auto imported from components/Bedrooms/Navigator.vue"
+  },
+  "BedroomsOverviewTable": {
+    "description": "Auto imported from components/Bedrooms/overviewTable.vue"
+  },
+  "BedroomsStatusTable": {
+    "description": "Auto imported from components/Bedrooms/statusTable.vue"
+  },
+  "ExperienceAvailability": {
+    "description": "Auto imported from components/Experience/Availability.vue"
+  },
+  "ExperienceBookingCutoff": {
+    "description": "Auto imported from components/Experience/BookingCutoff.vue"
+  },
+  "ExperienceCapacity": {
+    "description": "Auto imported from components/Experience/Capacity.vue"
+  },
+  "ExperiencePass": {
+    "description": "Auto imported from components/Experience/Pass.vue"
+  },
+  "ExperiencePriceCategory": {
+    "description": "Auto imported from components/Experience/PriceCategory.vue"
+  },
+  "ExperienceTitle": {
+    "description": "Auto imported from components/Experience/Title.vue"
+  },
+  "ExperienceTravellersBook": {
+    "description": "Auto imported from components/Experience/TravellersBook.vue"
+  },
+  "ExperienceType": {
+    "description": "Auto imported from components/Experience/Type.vue"
+  },
+  "HomeBanner": {
+    "description": "Auto imported from components/Home/Banner.vue"
+  },
+  "HomeChannels": {
+    "description": "Auto imported from components/Home/Channels.vue"
+  },
+  "HomeContact": {
+    "description": "Auto imported from components/Home/Contact.vue"
+  },
+  "HomeCopyright": {
+    "description": "Auto imported from components/Home/Copyright.vue"
+  },
+  "HomeEtours": {
+    "description": "Auto imported from components/Home/Etours.vue"
+  },
+  "HomeMaps": {
+    "description": "Auto imported from components/Home/Maps.vue"
+  },
+  "HomeNavbar": {
+    "description": "Auto imported from components/Home/Navbar.vue"
+  },
+  "HomeNewsletter": {
+    "description": "Auto imported from components/Home/Newsletter.vue"
+  },
+  "HomeReviews": {
+    "description": "Auto imported from components/Home/Reviews.vue"
+  },
+  "PropertiesProperty": {
+    "description": "Auto imported from components/Properties/Property.vue"
+  },
+  "ReservationsVueCalendar": {
+    "description": "Auto imported from components/Reservations/VueCalendar.vue"
+  },
+  "ReportsSummaryTable": {
+    "description": "Auto imported from components/Reports/SummaryTable.vue"
+  },
+  "ReportsSummaryTop": {
+    "description": "Auto imported from components/Reports/SummaryTop.vue"
+  }
+}
