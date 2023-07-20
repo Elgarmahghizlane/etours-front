@@ -6,7 +6,7 @@
         2023-e-Tours
       </span>
       <span>
-        By : CODINGART
+        By : GHIZLANE EL GARMAH
       </span>
       <span>
         Privacy Policy . Terms of use
