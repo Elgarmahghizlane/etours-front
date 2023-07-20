@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[53],{504:function(l,t,e){"use strict";e.r(t);var n={layout:"Hotel"},o=e(6),component=Object(o.a)(n,(function(){var l=this._self._c;return l("div",{staticClass:"w-full overflow-auto h-[calc(100vh-90px)] md:mr-4 lg:ml-2 lg:mr-4 mx-4"},[l("reservations-VueCalendar")],1)}),[],!1,null,null,null);t.default=component.exports}}]);

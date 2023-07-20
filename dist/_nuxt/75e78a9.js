@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[51],{503:function(l,t,o){"use strict";o.r(t);var r={layout:"Hotel"},n=o(6),component=Object(n.a)(r,(function(){var l=this._self._c;return l("div",{staticClass:"w-full md:overflow-auto h-[calc(100vh-90px)] md:mr-4 lg:ml-2 lg:mr-4 px-2 md:px-0"},[l("reports-SummaryTop")],1)}),[],!1,null,null,null);t.default=component.exports}}]);
